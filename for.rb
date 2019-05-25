@@ -5,7 +5,7 @@ def using_for
 	for items in checklist
 	  puts "#{looping_string}"
 	end
-	break if checklist == 10
+	
 end
 
 
